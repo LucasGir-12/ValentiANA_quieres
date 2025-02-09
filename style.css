@@ -33,7 +33,7 @@ button {
     margin: 0 10px; /* Set margin around buttons */
     font-size: 26px; /* Set font size for buttons */
     font-family: Arial, cursive; /* Apply Sacramento font to the options */
-    background-color: ##00008B; /* Set button background color */
+    background-color: #004bad; /* Set button background color */
     color: white; /* Set text color to white */
     border: none; /* Remove button border */
     cursor: pointer; /* Set cursor to pointer on hover */
